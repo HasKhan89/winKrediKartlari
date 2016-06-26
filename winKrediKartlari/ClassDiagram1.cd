@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Comment CommentText="Bunu bir daha göstermem">
+    <Position X="21.925" Y="3.656" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="winKrediKartlari.Bankamatik">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAACAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bankamatik.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="winKrediKartlari.Gold">
+    <Position X="6.75" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gBAAAACAgAAAAAAAAAAAAAABCAAAEAACAACAAAAAAAA=</HashCode>
+      <FileName>Gold.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="winKrediKartlari.Kart">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAQABAAAAAAAAAAAAAAAAAAEAQAAIA=</HashCode>
+      <FileName>Kart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="winKrediKartlari.KrediKarti">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgAgAAAAAAAA=</HashCode>
+      <FileName>KrediKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="winKrediKartlari.Limitless">
+    <Position X="10.75" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAQAABAAAACAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Limitless.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="winKrediKartlari.Platinium">
+    <Position X="14.75" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>pAAAAAAAAAAAAAAAQAIBAAAACAAAgAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Platinium.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="winKrediKartlari.Silver">
+    <Position X="2.75" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAQAABAAAAAAIAAAAAAACAAABAAAA=</HashCode>
+      <FileName>Silver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="winKrediKartlari.Titanium">
+    <Position X="19.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAQAABAAAACAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Titanium.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="winKrediKartlari.IEft" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEft.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="winKrediKartlari.IHavale" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHavale.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="winKrediKartlari.IPuanKazanma" Collapsed="true">
+    <Position X="19" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPuanKazanma.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="winKrediKartlari.ITaksit" Collapsed="true">
+    <Position X="20.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>ITaksit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="winKrediKartlari.HesapTuru" Collapsed="true">
+    <Position X="19" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAACAAAAAAAAAEAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Bankamatik.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="winKrediKartlari.KartTuru" Collapsed="true">
+    <Position X="20.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kart.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
